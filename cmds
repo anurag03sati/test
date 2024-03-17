@@ -1,0 +1,11 @@
+git config --global user.email   
+git config --global user.name  
+git init //makes the folder a git repo
+ls -a // shows all files with .git which tracks everything 
+
+git status // which files are tracked or not
+git add //adds the untracked files to staging area to be committed later on
+
+staging area //place where we hold the changes before committing 
+
+git log //how many commits so far
