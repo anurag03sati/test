@@ -12,3 +12,8 @@ git log //how many commits so far
 
 git checkout hashcode //goes to a specific commits
 git checkout master //goes back to master commit
+
+git branch dev //creates branch dev
+git checkout dev //moves to it
+
+made a branch dev to master and within dev another branch with anurag/cube name
