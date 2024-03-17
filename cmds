@@ -9,3 +9,6 @@ git add //adds the untracked files to staging area to be committed later on
 staging area //place where we hold the changes before committing 
 
 git log //how many commits so far
+
+git checkout hashcode //goes to a specific commits
+git checkout master //goes back to master commit
